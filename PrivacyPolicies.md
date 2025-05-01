@@ -1,6 +1,8 @@
 # Privacy Policy
 
-Effective Date: 31 March 2025
+**Effective Date: 31 March 2025**  
+**App Name:** *Pooja Sankalp*  
+**Developer / Legal Entity:** *Gyananjali*
 
 ## Introduction
 
